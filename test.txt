@@ -7,3 +7,5 @@ edit by hot_fix
 hello master
 =======
 hello hot_fix
+
+I am new --from git_team
